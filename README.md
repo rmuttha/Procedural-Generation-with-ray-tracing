@@ -1,6 +1,3 @@
-Here's a `README.md` file for the OpenGL-based procedural generation with ray tracing project. This will provide an overview of the project, how to set it up, and how it works.
-
----
 
 # OpenGL Ray Tracing with Procedural Generation
 
